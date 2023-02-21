@@ -11,7 +11,7 @@ public class DemoApplication {
         System.out.println();
         System.out.println();
         System.out.println();
-        System.out.println("master分支");
+        System.out.println("合并冲突分支");
         SpringApplication.run(DemoApplication.class, args);
     }
 
