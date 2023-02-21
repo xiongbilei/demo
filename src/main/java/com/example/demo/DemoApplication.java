@@ -11,7 +11,7 @@ public class DemoApplication {
         System.out.println();
         System.out.println();
         System.out.println();
-        System.out.println();
+        System.out.println("hot-fix分支");
         SpringApplication.run(DemoApplication.class, args);
     }
 
