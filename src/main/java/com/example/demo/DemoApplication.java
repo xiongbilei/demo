@@ -12,6 +12,8 @@ public class DemoApplication {
         System.out.println();
         System.out.println();
         System.out.println("合并冲突分支");
+
+        System.out.println("test github");
         SpringApplication.run(DemoApplication.class, args);
     }
 
